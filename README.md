@@ -3,7 +3,8 @@ Notes on pyladies module for CLE.py MotM 13APR2020
 
 ## pip install
 ```
-pip install pyladies
+$ pip install pyladies
+$ pyladies handbook
 ```
 
 ## About
